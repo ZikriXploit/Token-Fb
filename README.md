@@ -9,4 +9,4 @@
 ➠ cd Token-Fb
 ➠ python2 token.py
 
-## Thanks To ZikriXploit ##
+## Thanks To ZikriXploit. ##

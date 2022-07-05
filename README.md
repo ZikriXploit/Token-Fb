@@ -1,4 +1,4 @@
-<b>Cara Pemasangan
+<b><I>Cara Pemasangan
 
 ➠ pkg update && pkg upgrade 
 ➠ pkg install python 
